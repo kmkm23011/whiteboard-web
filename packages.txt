@@ -2,3 +2,4 @@ ffmpeg
 fonts-noto-core
 fonts-beng
 libraqm0
+libcairo2
